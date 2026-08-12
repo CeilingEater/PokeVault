@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">PokeVault</string>
+    <string name="welcome_message">Welcome to PokeVault</string>
+    <string name="you_ordered" translatable="false">You ordered:</string>
+    <string name="navigation_drawer_open" translatable="false">Open Navigation Drawer</string>
+    <string name="navigation_drawer_closed" translatable="false">Close Navigation Drawer</string>
+
+</resources>
